@@ -25,7 +25,7 @@ This repository contains structured notes, projects, and implementations from th
    - Moving averages, stationarity, and trend analysis.
    - ARIMA, LSTM, and other forecasting models.
 
-### 5️⃣ [Section 5: Flight Fare Prediction Project-I: Predicting and Analyzing Flight Ticket Prices](./Section%205)
+### 5️⃣ [Section 5: Flight Fare Prediction Project-1: Predicting and Analyzing Flight Ticket Prices](./Section%205)
    - Data collection, preprocessing, and exploratory data analysis (EDA).
    - Feature selection and engineering.
    - Model training and evaluation for fare prediction.

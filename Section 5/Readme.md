@@ -1,4 +1,4 @@
-# Section 5: Flight Fare Prediction Project-I: Predicting and Analyzing Flight Ticket Prices
+# Section 5: Flight Fare Prediction Project-1: Predicting and Analyzing Flight Ticket Prices
 
 This section presents a practical project aimed at predicting and analyzing flight ticket prices using machine learning techniques. It covers the entire workflow from data collection and preprocessing to model deployment.
 

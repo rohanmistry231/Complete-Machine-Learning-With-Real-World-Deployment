@@ -1,4 +1,4 @@
-# Python Data Structures and String Operations
+# Section 1: Python Data Structures and String Operations
 
 This section covers essential Python fundamentals, including data structures, string manipulation, functions, recursion, and data analysis libraries. It provides a solid foundation for understanding Python programming and its applications in machine learning and data science.
 

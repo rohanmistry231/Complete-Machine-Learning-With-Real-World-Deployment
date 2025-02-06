@@ -4,7 +4,7 @@ This repository contains structured notes, projects, and implementations from th
 
 ## 📁 Repository Structure
 
-### 1️⃣ [Section 1: Python Primer: A Beginner's Journey into Python's Fundamentals](./Section%20/)
+### 1️⃣ [Section 1: Python Primer: A Beginner's Journey into Python's Fundamentals](./Section%20)
    - Introduction to Python programming.
    - Data types, variables, loops, and functions.
    - File handling, exception handling, and OOP basics.
